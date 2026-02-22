@@ -1,0 +1,11 @@
+body{margin:0;font-family:system-ui;background:#0b0d12;color:#e8ecff}
+.container{width:90%;max-width:1000px;margin:auto}
+.site-header{padding:16px 0;border-bottom:1px solid rgba(255,255,255,.1)}
+.nav{display:flex;gap:10px}
+.nav-link{text-decoration:none;color:#a9b2d6}
+.nav-link.is-active{color:#fff}
+.hero{padding:40px 0}
+.btn{padding:10px 14px;background:#7c5cff;color:#fff;text-decoration:none;border-radius:8px}
+.btn-secondary{background:#333}
+.card{padding:16px;margin:16px 0;background:#111524;border-radius:10px}
+.site-footer{padding:16px 0;border-top:1px solid rgba(255,255,255,.1);margin-top:40px}
